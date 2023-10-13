@@ -1,1 +1,3 @@
-# gerencia_de_projetos_bsi_ufersa
+# UFERSA - Bacharelado em Sistemas de Informação
+
+## Gerência de Projetos
